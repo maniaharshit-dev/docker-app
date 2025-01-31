@@ -1,6 +1,5 @@
 Here's the complete updated `README.md` file in markdown format:
 
-```markdown
 # Spring Boot Application with PostgreSQL, Docker, and Kubernetes
 
 ## Overview
@@ -212,6 +211,3 @@ Once the application is running, test the APIs using Postman or cURL.
 
 This project demonstrates how to build and deploy a Spring Boot application with PostgreSQL using Docker and Kubernetes. The setup ensures easy scalability and portability.
 
-```
-
-This markdown file provides the complete instructions, including Docker and Kubernetes setup, API testing, and the process to push the Docker image to Docker Hub. You can copy and paste this into your `README.md`. Let me know if you need any more changes!
