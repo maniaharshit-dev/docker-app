@@ -1,5 +1,3 @@
-Here's the complete updated `README.md` file in markdown format:
-
 # Spring Boot Application with PostgreSQL, Docker, and Kubernetes
 
 ## Overview
